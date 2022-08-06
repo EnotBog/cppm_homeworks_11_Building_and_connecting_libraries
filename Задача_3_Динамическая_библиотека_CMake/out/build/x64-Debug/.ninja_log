@@ -1,0 +1,7 @@
+# ninja log v5
+2	323	6814836049178381	build.ninja	80b071fa4de92e46
+1	1114	6814836059642055	CMakeFiles/DynamicLeaverLib.dir/DynamicLeaver.cpp.obj	ef835af5f65065ee
+1115	1834	6814836066517062	DynamicLeaverLib.dll	a596403b2a788ddf
+1115	1834	6814836066517062	DynamicLeaverLib.lib	a596403b2a788ddf
+4	2001	6814836068548315	CMakeFiles/DynamicLibCMakeEXE.dir/Source.cpp.obj	75b19e69c0f9a9d8
+2001	2590	6814836074173315	DynamicLibCMakeEXE.exe	4d2e008ba523737

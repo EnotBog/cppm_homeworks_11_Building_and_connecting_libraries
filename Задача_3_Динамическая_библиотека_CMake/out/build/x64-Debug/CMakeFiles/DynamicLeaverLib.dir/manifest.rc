@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Project/Сборка_и_подключение_библиотек/Задача_3_Динамическая_библиотека_CMake/out/build/x64-Debug/CMakeFiles/DynamicLeaverLib.dir/embed.manifest"
